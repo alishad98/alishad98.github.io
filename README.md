@@ -26,6 +26,15 @@ Developed dashboard using **PowerBI** and **Snowflake**. Data-driven approach le
 
 ### Python Script - SAP Automation
 
-Used **Python** to automate sap processes
+Used **Python** to automate sap processes. Using below code as example:
+
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
 
 
+
+
+Thanks!
