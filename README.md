@@ -80,7 +80,7 @@ Key Approaches included:
 - **Real-Time Updates:** Included dynamic updates to accommodate changes in data, ensuring stakeholders always had the most current information.
 
 
-![Power Automate Flow - 1(/assets/PowerAutomate1.png)
+![Power Automate Flow - 1](/assets/PowerAutomate1.png)
 
 Screenshots of anonymised workflows and process diagrams are included to provide insight into the design and functionality of this project.
 
