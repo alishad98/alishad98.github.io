@@ -1,6 +1,5 @@
-# alishad98-portfolio
 
-#Data Analyst and Project Manager
+# Data Analyst and Project Manager
 
 #### Technical Skills: PowerBI, Python, SQL, Snowflake, ERP Systems (SAP)
 
@@ -20,7 +19,7 @@
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Projects
-### Formula One Budget and Inventoy Insights PowerBI Dashboard
+### Formula One Budget and Inventory Insights PowerBI Dashboard
 
 Dsigned dashboard to streamline budget tracking and provide real-time insights into cost variances for the Formula One programme, integrating data from multiple corporate platforms, including **Snowflake**, **Python** and **SAP**. This dashboard is actively used by and presented to stakeholders, including C-suite executives, to make data-driven decisions, monitor cost performance, and optimise inventory processes with the objective to indirectly impact car performance and provide more available spend to develop the car.
 
@@ -60,15 +59,9 @@ Enhanced data accuracy and consistency by ensuring clean and non-duplicated reco
 
 [Link to SAPAutomation.py](https://github.com/alishad98/portfolio/blob/main/SAPAutomation.py)
 
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
+## Snippet of SAP Code
 
-## WT2 Recharges (Wind Tunnel) Daily Export
-
-The following Python script automates the daily export process of the WT2 Recharges (Wind Tunnel) report. This includes reading and filtering data from an Excel file, interacting with SAP for data export, and saving the report.
+The following Python script automates the daily export process of one SAP report. This includes reading and filtering data from an Excel file, interacting with SAP for data export, and saving the report.
 
 ```python
 # Start of WT2 Recharges (Wind Tunnel) daily export
