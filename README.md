@@ -66,6 +66,67 @@ markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
 
+## WT2 Recharges (Wind Tunnel) Daily Export
+
+The following Python script automates the daily export process of the WT2 Recharges (Wind Tunnel) report. This includes reading and filtering data from an Excel file, interacting with SAP for data export, and saving the report.
+
+```python
+# Start of WT2 Recharges (Wind Tunnel) daily export
+SAP_OBJ.session.findById("wnd[0]/tbar[0]/okcd").text = "S_ALR_87013019"
+SAP_OBJ.session.findById("wnd[0]").sendVKey(0)
+SAP_OBJ.session.findById("wnd[0]/usr/txt$6-KOKRS").text = "1000"
+
+# Function to filter values starting with specific prefixes
+def filter_values(sheet, prefixes):
+    matching_values = []
+    for row in sheet.iter_rows(values_only=True):
+        for cell in row:
+            if isinstance(cell, str) and cell.startswith(tuple(prefixes)):
+                matching_values.append(cell)
+    return matching_values
+
+# Main function to copy matching values from Excel to clipboard
+def copy_matching_values_to_clipboard(file_path, prefixes):
+    if not os.path.exists(file_path):
+        print(f"Error: The file '{file_path}' does not exist.")
+        return
+    try:
+        workbook = openpyxl.load_workbook(file_path)
+        all_matching_values = []
+        for sheet_name in workbook.sheetnames:
+            sheet = workbook[sheet_name]
+            matching_values = filter_values(sheet, prefixes)
+            all_matching_values.extend(matching_values)
+
+        df_values = pd.DataFrame(all_matching_values, columns=["0"])
+        df_values.to_clipboard(index=False, header=True)
+        print(f"Values matching {prefixes} copied to clipboard!")
+
+    except Exception as e:
+        print(f"An error occurred: {e}")
+
+# File path and prefixes
+file_path = r"C:\Users\svc.cost.user\Desktop\W16 Budget Overview - 2025.xlsx"
+prefixes = ["DEV2", "DV25", "BD25"]
+
+# Run the function
+copy_matching_values_to_clipboard(file_path, prefixes)
+
+# SAP export and interaction (abbreviated)
+SAP_OBJ.session.findById("wnd[0]/usr/btn%__6ORDGRP_%_APP_%-VALU_PUSH").press()
+SAP_OBJ.session.findById("wnd[1]/tbar[0]/btn[24]").press()
+
+# ... (More SAP steps omitted for brevity)
+
+SAP_OBJ.session.findById("wnd[1]/usr/ctxtDY_FILENAME").text = "WT2_Recharges_2025.XLSX"
+SAP_OBJ.session.findById("wnd[1]/tbar[0]/btn[11]").press()
+
+# Final step
+SAP_OBJ.session.findById("wnd[0]/tbar[0]/btn[12]").press()
+print(f'WT2 Recharges Complete')
+```
+
+
 ### Process Optimisation Projects
 
 #### Power Automate
