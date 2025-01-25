@@ -70,14 +70,15 @@ puts markdown.to_html
 
 #### Power Automate
 To streamline workflows and reduce manual intervention, I developed a Power Automate flow chain that optimised email-based communication and data management processes across teams. This automation achieved the following:
-- Reduced Manual Effort: Automated the distribution of critical reports and reminders, ensuring timely updates without requiring manual follow-ups.
--Improved Team Efficiency: Enabled seamless coordination across departments by automatically routing emails to relevant stakeholders based on predefined conditions.
--Error Mitigation: Eliminated manual errors in repetitive tasks by ensuring consistent data handling and distribution.
+- **Reduced Manual Effort:** Automated the distribution of critical reports and reminders, ensuring timely updates without requiring manual follow-ups.
+- **Improved Team Efficiency:** Enabled seamless coordination across departments by automatically routing emails to relevant stakeholders based on predefined conditions.
+- **Error Mitigation:** Eliminated manual errors in repetitive tasks by ensuring consistent data handling and distribution.
 
 Key Approaches included:
-Conditional Logic: Incorporated rules to send tailored emails based on triggers like deadlines or changes in data.
-Integration with Other Tools: Linked with SharePoint for file storage and Outlook for email delivery, ensuring all information was accessible and actionable.
-Real-Time Updates: Included dynamic updates to accommodate changes in data, ensuring stakeholders always had the most current information.
+- **Conditional Logic:** Incorporated rules to send tailored emails based on triggers like deadlines or changes in data.
+- **Integration with Other Tools:** Linked with SharePoint for file storage and Outlook for email delivery, ensuring all information was accessible and actionable.
+- **Real-Time Updates:** Included dynamic updates to accommodate changes in data, ensuring stakeholders always had the most current information.
+
 Screenshots of anonymised workflows and process diagrams are included to provide insight into the design and functionality of this project.
 
 #### Business Process Improvement
@@ -85,26 +86,24 @@ Screenshots of anonymised workflows and process diagrams are included to provide
 As part of my ongoing efforts to optimise business processes, I developed an Authorised Document Flowchart to streamline and clarify the document approval process across the company. The objective was to reduce bottlenecks, increase efficiency, and ensure compliance with internal policies.
 
 Key aspects of the flowchart include:
-- Clear Workflow Visualisation: Designed a step-by-step process that identifies each stage in the document approval journey, from initiation to final authorisation. This ensured that team members understood where their responsibilities lay at every stage.
-- Role-Based Access: Incorporated role-specific permissions, ensuring that only authorised individuals could approve or modify documents at various stages, reducing the risk of errors or compliance issues.
-- Automated Trigger Points: Integrated automatic notifications and reminders for team members to ensure timely progress through the approval pipeline.
-- Efficient Escalation: Defined clear escalation paths to prevent delays in approval, ensuring that critical documents were fast-tracked when necessary.
+- **Clear Workflow Visualisation:** Designed a step-by-step process that identifies each stage in the document approval journey, from initiation to final authorisation. This ensured that team members understood where their responsibilities lay at every stage.
+- **Role-Based Access:** Incorporated role-specific permissions, ensuring that only authorised individuals could approve or modify documents at various stages, reducing the risk of errors or compliance issues.
+- **Automated Trigger Points:** Integrated automatic notifications and reminders for team members to ensure timely progress through the approval pipeline.
+- **Efficient Escalation:** Defined clear escalation paths to prevent delays in approval, ensuring that critical documents were fast-tracked when necessary.
 
-served as a visual reference and also as the foundation for automating the document management process using Power Automate. This combined approach helped significantly reduce delays, and improve transparency and cross-functional collaboration.
-
-An anonymised version of the flowchart is included to provide an overview of the logic and design.
+The document and process diagram served as a visual reference and also as the foundation for automating the document management process using Power Automate. This combined approach helped significantly reduce delays, and improve transparency and cross-functional collaboration. An anonymised version of the flowchart is included to provide an overview of the logic and design.
 
 
 
 
-###Financial Analysis Reporting 
+### Financial Analysis Reporting 
 As part of my role in financial reporting, I developed and regularly sent out comprehensive Inventory & Cost Management Reports to Director-level and C-suite executives across the business, focusing on key financial insights related to inventory tracking and cost variances. The reports served to inform senior management and key stakeholders on current and projected financial performance.
 
 Key elements of this project include:
-- Inventory Data Extraction & Analysis: Utilised advanced Excel techniques and SQL to extract, clean, and analyse large volumes of data from various sources, including SAP, to track the inventory value, ordered quantities, and delivery statuses.
-- Cost Variance Analysis: Created detailed reports that identified variances between budgeted and actual costs for car inventory and Formula 1 program components, highlighting discrepancies and opportunities for cost-saving.
-- Fuel Line Graph: Developed an in-depth fuel line graph to visualise the ongoing expenditure and project future costs. This graph was integral to senior leadership's understanding of financial trends, helping to optimise spending and forecast future budget needs.
-- Dynamic Reporting: Designed a report that could be updated easily with new data, ensuring stakeholders always had the most current information. The report was structured to allow quick decision-making and ongoing strategic planning.
+- **Inventory Data Extraction & Analysis:** Utilised advanced Excel techniques and SQL to extract, clean, and analyse large volumes of data from various sources, including SAP, to track the inventory value, ordered quantities, and delivery statuses.
+- **Cost Variance Analysis:** Created detailed reports that identified variances between budgeted and actual costs for car inventory and Formula 1 program components, highlighting discrepancies and opportunities for cost-saving.
+- **Fuel Line Graph:** Developed an in-depth fuel line graph to visualise the ongoing expenditure and project future costs. This graph was integral to senior leadership's understanding of financial trends, helping to optimise spending and forecast future budget needs.
+- **Dynamic Reporting:** Designed a report that could be updated easily with new data, ensuring stakeholders always had the most current information. The report was structured to allow quick decision-making and ongoing strategic planning.
 
 The reports and associated visuals (such as the fuel line graph) were key to driving financial decisions and were frequently used by senior leadership for cost optimisation and budgeting purposes. An anonymised version of the report and the associated fuel line graph is included to showcase the type of data and insights provided.
 
