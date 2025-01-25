@@ -81,11 +81,10 @@ Key Approaches included:
 
 
 ![Power Automate Flow - 1](/assets/PowerAutomate1.png)
+[![Power Automate Screenshot](https://github.com/alishad98/alishad98.github.io/blob/main/assets/PowerAutomate1.png)](https://github.com/alishad98/alishad98.github.io/blob/main/assets/PowerAutomate1.png)
 
 Screenshots of anonymised workflows and process diagrams are included to provide insight into the design and functionality of this project.
 
-
-[![Power Automate Screenshot](https://github.com/alishad98/alishad98.github.io/blob/main/assets/PowerAutomate1.png)](https://github.com/alishad98/alishad98.github.io/blob/main/assets/PowerAutomate1.png)
 
 
 #### Business Process Improvement
