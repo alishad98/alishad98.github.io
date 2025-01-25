@@ -79,6 +79,9 @@ Key Approaches included:
 - **Integration with Other Tools:** Linked with SharePoint for file storage and Outlook for email delivery, ensuring all information was accessible and actionable.
 - **Real-Time Updates:** Included dynamic updates to accommodate changes in data, ensuring stakeholders always had the most current information.
 
+
+![Power Automate Flow - 1(/assets/PowerAutomate1.png)
+
 Screenshots of anonymised workflows and process diagrams are included to provide insight into the design and functionality of this project.
 
 #### Business Process Improvement
@@ -112,4 +115,4 @@ The reports and associated visuals (such as the fuel line graph) were key to dri
 ### Achievements
 Include academic published author
 
-[Publication] https://www.sciencedirect.com/science/article/abs/pii/S1526612521000840
+[Publication](https://www.sciencedirect.com/science/article/abs/pii/S1526612521000840)
