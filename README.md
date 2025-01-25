@@ -9,13 +9,11 @@
 - BEng, Mechanical Engineering| Cardiff University (_July 2019_)	 			        		
 
 ## Work Experience
-** Mercedes-AMG Petronas Formula One Team **
-
-***Cost Analyst - Budget Manager II (_October 2022 - Present_)
+**Cost Analyst - Budget Manager II @ Mercedes-AMG Petronas Formula One Team(_December 2023 - Present_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-*** Cost Analyst - Inventory Budgets I
+**Cost Analyst - Inventory Budgets I @ Mercedes-AMG Petronas Formula One Team (_November 2022 - December 2023_**
 
 **Data Analyst @ Emitwise (_October 2021 - October 2022_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
