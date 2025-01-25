@@ -109,3 +109,7 @@ The reports and associated visuals (such as the fuel line graph) were key to dri
 
 
 
+### Achievements
+Include academic published author
+
+[Publication] https://www.sciencedirect.com/science/article/abs/pii/S1526612521000840
