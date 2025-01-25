@@ -84,6 +84,10 @@ Key Approaches included:
 
 Screenshots of anonymised workflows and process diagrams are included to provide insight into the design and functionality of this project.
 
+
+[![Power Automate Screenshot](https://github.com/alishad98/alishad98.github.io/blob/main/assets/PowerAutomate1.png)](https://github.com/alishad98/alishad98.github.io/blob/main/assets/PowerAutomate1.png)
+
+
 #### Business Process Improvement
 
 As part of my ongoing efforts to optimise business processes, I developed an Authorised Document Flowchart to streamline and clarify the document approval process across the company. The objective was to reduce bottlenecks, increase efficiency, and ensure compliance with internal policies.
