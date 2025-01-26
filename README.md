@@ -8,12 +8,12 @@
 - BEng, Mechanical Engineering| Cardiff University (_July 2019_)	 			        		
 
 ## Work Experience
-**Cost Analyst - Budget Manager II @ Mercedes-AMG Petronas Formula One Team(_December 2023 - Present_)**
+**Cost Analyst - Budget Manager II @ Mercedes-AMG Petronas Formula One Team (_December 2023 - Present_)**
 - Managed inventory and budgets for 150+ Formula 1 projects, providing C-suite data reporting.
 - Developed Power BI dashboards for inventory KPIs and implemented cost-saving strategies.
 - Improved internal processes through change management and cross-departmental collaboration.
 
-**Cost Analyst - Inventory Budgets I @ Mercedes-AMG Petronas Formula One Team (_November 2022 - December 2023_**
+**Cost Analyst - Inventory Budgets I @ Mercedes-AMG Petronas Formula One Team (_November 2022 - December 2023_)**
 - Forecasted budgets and analysed inventory data using Power BI and Python, collaborating with Engineering, Operations, and Finance to optimise project outcomes.
 
 
