@@ -9,19 +9,28 @@
 
 ## Work Experience
 **Cost Analyst - Budget Manager II @ Mercedes-AMG Petronas Formula One Team(_December 2023 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
+- Managed inventory and budgets for 150+ Formula 1 projects, providing C-suite data reporting.
+- Developed Power BI dashboards for inventory KPIs and implemented cost-saving strategies.
+- Improved internal processes through change management and cross-departmental collaboration.
 **Cost Analyst - Inventory Budgets I @ Mercedes-AMG Petronas Formula One Team (_November 2022 - December 2023_**
+- Forecasted budgets and analysed inventory data using Power BI and Python, collaborating with Engineering, Operations, and Finance to optimise project outcomes.
+
 
 **Data Analyst @ Emitwise (_October 2021 - October 2022_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Built environmental models and developed supply-chain decarbonisation strategies for clients.
+- Led analysis for Tier 1 consulting partnership, boosting tracked carbon metrics by 50%.
+- Delivered data-driven insights to C-suite, improving KPIs through enhanced processes.
+
+
+**Financial Analyst @ Synergy Capital (_June 2018 - August 2018_)**
+- Conducted financial analysis, identified market opportunities, and supported cost initiatives.
+
+
 
 ## Projects
 ### Formula One Budget and Inventory Insights PowerBI Dashboard
 
-Dsigned dashboard to streamline budget tracking and provide real-time insights into cost variances for the Formula One programme, integrating data from multiple corporate platforms, including **Snowflake**, **Python** and **SAP**. This dashboard is actively used by and presented to stakeholders, including C-suite executives, to make data-driven decisions, monitor cost performance, and optimise inventory processes with the objective to indirectly impact car performance and provide more available spend to develop the car.
+Designed dashboard to streamline budget tracking and provide real-time insights into cost variances for the Formula One programme, integrating data from multiple corporate platforms, including **Snowflake**, **Python** and **SAP**. This dashboard is actively used by and presented to stakeholders, including C-suite executives, to make data-driven decisions, monitor cost performance, and optimise inventory processes with the objective to indirectly impact car performance and provide more available spend to develop the car.
 
 #### Key Features and Functionality
 - **Consolidated Data Sources:** Links SAP and other corporate platforms into a single view, centralising all budget and inventory data for seamless analysis.
