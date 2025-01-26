@@ -1,10 +1,10 @@
 
-# Data Analyst and Project Manager
+# Data and Project Management Professional
 
 #### Technical Skills: PowerBI, Python, SQL, Snowflake, ERP Systems (SAP)
 
 ## Education
-- M.Sc, Sutainable Energy | Imperial College London (_September 2021_)								       		
+- M.Sc, Sustainable Energy | Imperial College London (_September 2021_)								       		
 - BEng, Mechanical Engineering| Cardiff University (_July 2019_)	 			        		
 
 ## Work Experience
