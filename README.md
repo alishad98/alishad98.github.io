@@ -53,6 +53,7 @@ This part highlights detailed inventory metrics, such as delivered vs remaining 
 
 
 
+
 ### Python Script for SAP Data Automation
 
 Developed a Python-based automation script to connect to SAP and streamline the extraction, processing, and integration of live production data. Designed to run twice daily, the script ensures stakeholders have access to up-to-date information critical for tracking production orders, financial settlements, and part costs.
@@ -173,6 +174,9 @@ The document and process diagram served as a visual reference and also as the fo
 
 ### Financial Analysis Reporting 
 As part of my role in financial reporting, I developed and regularly sent out comprehensive Inventory & Cost Management Reports to Director-level and C-suite executives across the business, focusing on key financial insights related to inventory tracking and cost variances. The reports served to inform senior management and key stakeholders on current and projected financial performance.
+
+[![View Report](/assets/PDFThumbnail.png)](/assets/ExampleReport.pdf)
+
 
 Key elements of this project include:
 - **Inventory Data Extraction & Analysis:** Utilised advanced Excel techniques and SQL to extract, clean, and analyse large volumes of data from various sources, including SAP, to track the inventory value, ordered quantities, and delivery statuses.
