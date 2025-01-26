@@ -32,6 +32,10 @@
 
 Designed dashboard to streamline budget tracking and provide real-time insights into cost variances for the Formula One programme, integrating data from multiple corporate platforms, including **Snowflake**, **Python** and **SAP**. This dashboard is actively used by and presented to stakeholders, including C-suite executives, to make data-driven decisions, monitor cost performance, and optimise inventory processes with the objective to indirectly impact car performance and provide more available spend to develop the car.
 
+![Snapshot1: Budget Overview](/assets/PowerBI1.png)
+This section of the dashboard provides a high-level view of the overall budget performance, showing spend against allocated budgets across all inventory groups. Stakeholders use this to quickly identify overspend or cost-saving opportunities.
+
+
 #### Key Features and Functionality
 - **Consolidated Data Sources:** Links SAP and other corporate platforms into a single view, centralising all budget and inventory data for seamless analysis.
 - **Budget Tracking:** Displays current spend against allocated budgets for all car inventory, categorised by group, enabling stakeholders to monitor financial health at a glance.
@@ -44,7 +48,8 @@ This dashboard was developed based on stakeholder requirements and through in-de
 Building relationships between data sources to ensure accuracy and consistency.
 Designing user-centric visuals and reports tailored to meet the needs of cross-functional teams.
 
-
+![Snapshot 2: Detailed Budget Information](/assets/PowerBI2.png)
+This part highlights detailed inventory metrics, such as delivered vs remaining inventory values and a breakdown between internal manufacturing and external purchases. The right-hand graphs visualise future order timelines and variances in planned vs actual spend.
 
 
 
@@ -134,7 +139,8 @@ print(f'WT2 Recharges Complete')
 #### Power Automate
 To streamline workflows and reduce manual intervention, I developed a Power Automate flow chain that optimised email-based communication and data management processes across teams. This automation achieved the following:
 - **Reduced Manual Effort:** Automated the distribution of critical reports and reminders, ensuring timely updates without requiring manual follow-ups.
-- **Improved Team Efficiency:** Enabled seamless coordination across departments by automatically routing emails to relevant stakeholders based on predefined conditions.
+- **Improved Team Efficiency:** Enabled seamless coordi
+- nation across departments by automatically routing emails to relevant stakeholders based on predefined conditions.
 - **Error Mitigation:** Eliminated manual errors in repetitive tasks by ensuring consistent data handling and distribution.
 
 Key Approaches included:
