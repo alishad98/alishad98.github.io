@@ -176,6 +176,7 @@ The document and process diagram served as a visual reference and also as the fo
 As part of my role in financial reporting, I developed and regularly sent out comprehensive Inventory & Cost Management Reports to Director-level and C-suite executives across the business, focusing on key financial insights related to inventory tracking and cost variances. The reports served to inform senior management and key stakeholders on current and projected financial performance.
 
 [![View Report](/assets/PDFThumbnail.png)](/assets/ExampleReport.pdf)
+Please click the link to view the report, where all confidential and sensitive information has been blocked out for privacy and security reasons.
 
 
 Key elements of this project include:
@@ -189,6 +190,6 @@ The reports and associated visuals (such as the fuel line graph) were key to dri
 
 
 ### Achievements
-Include academic published author
-
 [Publication](https://www.sciencedirect.com/science/article/abs/pii/S1526612521000840)
+
+I co-authored a scientifically published paper titled which was published in Journal of Manufacturing Processes. The research focused on improving the machining process of GLARE composites, commonly used in aerospace applications, by exploring the impact of cryogenic cooling on hole quality. Using software such as **Python**, I contributed to the experimental design, data analysis, and interpretation of results. This project highlights my ability to work with complex data sets, employ statistical analysis methods, and contribute to innovative engineering solutions.
